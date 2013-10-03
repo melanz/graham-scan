@@ -1,6 +1,6 @@
 graham-scan
 ==========
-Creates a convex hull using Graham's Scan
+Creates a convex hull using Graham's Scan.
 
 ## Example
 
