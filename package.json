@@ -1,0 +1,28 @@
+{
+  "name": "graham-scan",
+  "version": "0.0.0",
+  "description": "Implementation of Graham's Scan with a visualizer.",
+  "main": "grahamScan.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grahamScan(points)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/melanz/graham-scan.git"
+  },
+  "keywords": [
+    "convex",
+    "hull",
+    "2D",
+    "graham",
+    "scan"
+  ],
+  "author": "Daniel Melanz",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/melanz/graham-scan/issues"
+  }
+}
